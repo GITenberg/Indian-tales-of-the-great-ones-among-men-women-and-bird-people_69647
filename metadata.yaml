@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25683'
     url: http://www.gutenberg.org/2009/agents/25683
     wikipedia: https://en.wikipedia.org/wiki/Warwick_Goble
+covers:
+- cover_type: archival
+  image_path: 69647-h/images/cover.jpg
 creator:
   author:
     agent_name: Sorabji, Cornelia
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55357
     wikipedia: https://en.wikipedia.org/wiki/Cornelia_Sorabji
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69647#Indian-tales-of-the-great-ones-among-men-women-and-bird-people
 gutenberg_issued: '2022-12-28'
 identifiers:
   gutenberg: '69647'
